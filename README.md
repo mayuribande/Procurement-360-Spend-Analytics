@@ -28,7 +28,7 @@ Data Modeling
 Dashboard Modules
 1. Cost Saving Analytics
 
-![Cost Saving Dashboard](cost_saving.png)
+![Cost Saving Dashboard](screenshots/cost_saving.png)
 
 Key Metrics:
 
