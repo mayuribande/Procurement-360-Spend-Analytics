@@ -1,4 +1,4 @@
- # Procurement360 — Spend Analytics Suite
+ # Procurement 360 — Spend Analytics Suite
 
 Project Overview
 
@@ -28,7 +28,7 @@ Data Modeling
 Dashboard Modules
 1. Cost Saving Analytics
 
-![Cost Saving Dashboard](screenshots/cost_saving.png)
+![Cost Saving Dashboard](screenshots/cost_saving.PNG)
 
 Key Metrics:
 
