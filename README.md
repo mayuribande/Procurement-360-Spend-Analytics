@@ -100,7 +100,7 @@ Monitor spend growth trends.
 
 5. Tail Spend Analysis
 
-![download](tail_spend_.png)
+![download](tail_spend.PNG)
 
 Key Metrics:
 
