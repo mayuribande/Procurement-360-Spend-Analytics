@@ -47,7 +47,7 @@ Monitor savings performance against targets.
 
 2. Indirect Spend Management
 
- ![download](indirect_spend.png)
+ ![download](indirect_spend.PNG)
 
 Key Metrics:
 
@@ -65,7 +65,7 @@ Identify high-spending cost centers.
 
 3. Maverick Spend Analysis
 
- ![download](maverick_spend.png)
+ ![download](maverick_spend.PNG)
 
 
 Key Metrics:
@@ -83,7 +83,7 @@ Reduce unauthorized spending.
 
 4. Supplier Analysis
 
-![download](Supplier_Analysis.png)
+![download](Supplier_Analysis.PNG)
 
 Key Metrics:
 
