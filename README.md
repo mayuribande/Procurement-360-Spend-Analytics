@@ -65,7 +65,7 @@ Identify high-spending cost centers.
 
 3. Maverick Spend Analysis
 
- ![download](maverick_spend_analyst.png)
+ ![download](maverick_spend.png)
 
 
 Key Metrics:
@@ -100,7 +100,7 @@ Monitor spend growth trends.
 
 5. Tail Spend Analysis
 
-![download](tail_spend_analyst.png)
+![download](tail_spend_.png)
 
 Key Metrics:
 
